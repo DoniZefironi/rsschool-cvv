@@ -71,4 +71,4 @@ return counter;
 ```
 ## English language:
  
- - Elementary (A2)
+ - Elementary (A2-)
